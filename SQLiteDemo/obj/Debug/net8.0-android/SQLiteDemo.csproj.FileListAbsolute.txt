@@ -1056,3 +1056,4 @@
 /Users/thanadetdaunyai/DX212app/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-android/android/assets/armeabi-v7a/System.Private.CoreLib.dll
 /Users/thanadetdaunyai/DX212app/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-android/android/assets/x86/System.Private.CoreLib.dll
 /Users/thanadetdaunyai/DX212app/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-android/android/assets/x86_64/System.Private.CoreLib.dll
+/Users/thanadetdaunyai/DX212app/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-android/SQLiteDemo.sourcelink.json
